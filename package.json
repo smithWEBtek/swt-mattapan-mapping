@@ -1,5 +1,6 @@
 {
   "name": "mattapan-mapping",
+  "homepage": "https://smithwebtek.github.io/swt-mattapan-mapping/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
